@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kabuk-app/.github/main/profile/logo.svg" alt="" width="72" height="72">
+
 # Kabuk
 
 Kabuk is an SSH client that keeps everything on your side. Your hosts, keys and snippets live in an
